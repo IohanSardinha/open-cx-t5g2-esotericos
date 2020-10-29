@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015522111709",
+    "firebase_url": "https://retrospective-wall.firebaseio.com",
+    "project_id": "retrospective-wall",
+    "storage_bucket": "retrospective-wall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015522111709:android:6999edb894dc8423792b34",
+        "android_client_info": {
+          "package_name": "com.example.retrospective_wall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015522111709-kq6e7qffjep04prmsg70qeucjmibffml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASujk1MECeG1jHZ7bqHdm6GZVTTnOWrrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015522111709-kq6e7qffjep04prmsg70qeucjmibffml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
