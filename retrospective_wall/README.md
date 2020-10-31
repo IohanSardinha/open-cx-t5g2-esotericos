@@ -1,6 +1,6 @@
-# retrospective_wall
+# tutorial1
 
-Retrospective Wall aplication for conferences
+A new Flutter project.
 
 ## Getting Started
 
