@@ -65,7 +65,7 @@ The meeting host can create his own questions to get feedback on a specific topi
 The meeting needs to occur so that people can give their feedaback.
 
 * **Normal Flow**. Provide a detailed description of the user actions and system responses that will take place during execution of the use case under normal, expected conditions. This dialog sequence will ultimately lead to accomplishing the goal stated in the use case name and description. This is best done as a numbered list of actions performed by the actor, alternating with responses provided by the system. 
-- **A- actor / S- System**
+- **Normal FLow (A- actor / S- System)**
   - S- at the end of the meeting loads a page where it shows all the feedback topics.
   - A- chooses from what topic he wishes to give feedback on, or comment on existing posts, or simply read them.
   - S- By clicking on the topic, loads a new page that shows bubles (that vary in size dued to their likes/dislikes) containing people's feedback (only the tittle ???).
